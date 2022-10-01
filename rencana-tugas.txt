@@ -3,6 +3,8 @@ Rencana Tugas Saya
   * Bencana Alam
   * Prinsip Geografi
 - Matematika 
+  * Baris Aritmatika
+  * Baris Geometri
 - kimia 
 - Fisika
 - Informatika

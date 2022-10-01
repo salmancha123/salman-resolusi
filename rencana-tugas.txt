@@ -1,10 +1,11 @@
 Rencana Tugas Saya
 - Geografi
-  * Bencana Alam
   * Prinsip Geografi
 - Matematika 
   * Baris Aritmatika
-  * Baris Geometri
+  * Vektor
 - kimia 
+  * Unsur unsur kimia
 - Fisika
+  * Pengukuran
 - Informatika

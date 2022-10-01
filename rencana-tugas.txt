@@ -6,6 +6,7 @@ Rencana Tugas Saya
   * Baris Aritmatika
   * Baris Geometri
 - kimia 
+  * Unsur unsur kimia
 - Fisika
   * Pengukuran
 - Informatika
